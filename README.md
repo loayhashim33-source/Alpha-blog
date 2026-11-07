@@ -1,24 +1,22 @@
-# README
+# Alpha Blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A blog application built with Ruby on Rails.
 
-Things you may want to cover:
+## Technologies
+- Ruby
+- Ruby on Rails
+- SQLite
+- Bootstrap
 
-* Ruby version
+## 🚀 Features & Progress
 
-* System dependencies
+### 📋 To Do
 
-* Configuration
+- [X] Create Home and About pages
 
-* Database creation
+- [X] Create Migration table for articles
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## ⚙️ Installation
+Instructions for setting up the project locally will be added soon.
