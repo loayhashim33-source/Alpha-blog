@@ -32,6 +32,8 @@ A blog application built with Ruby on Rails.
 
 - [X] Messaging Validation
 
+- [] Don't Repeat yourself code 
+
 
 ## ⚙️ Installation
 Instructions for setting up the project locally will be added soon.
