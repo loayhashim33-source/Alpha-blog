@@ -30,6 +30,8 @@ A blog application built with Ruby on Rails.
 
 - [X] Destroy an article
 
+- [X] Messaging Validation
+
 
 ## ⚙️ Installation
 Instructions for setting up the project locally will be added soon.
