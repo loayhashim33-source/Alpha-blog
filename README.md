@@ -32,7 +32,7 @@ A blog application built with Ruby on Rails.
 
 - [X] Messaging Validation
 
-- [] Don't Repeat yourself code 
+- [X] Don't Repeat yourself code 
 
 
 ## ⚙️ Installation
