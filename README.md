@@ -20,6 +20,16 @@ A blog application built with Ruby on Rails.
 
 - [X] Add validations in Article model to Articles table
 
+- [X] Show article information 
+
+- [X] Show all articles 
+
+- [X] Create new article
+
+- [X] Edit and Update an exsiting article
+
+- [X] Destroy an article
+
 
 ## ⚙️ Installation
 Instructions for setting up the project locally will be added soon.
