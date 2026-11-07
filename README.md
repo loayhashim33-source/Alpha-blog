@@ -16,6 +16,9 @@ A blog application built with Ruby on Rails.
 
 - [X] Create Migration table for articles
 
+- [X] Create Article model for articles table
+
+- [X] Add validations in Article model to Articles table
 
 
 ## ⚙️ Installation
